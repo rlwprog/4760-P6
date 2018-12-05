@@ -1,0 +1,4 @@
+Cmp Sci 4760 Project 6
+
+Project simulates memory management by creating a frame and page table. An OS simulator (oss) forks off process users at random times.  
+
